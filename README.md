@@ -1,22 +1,12 @@
 # 🌟 WaY_To_BRACU
 
 
-<p align="left">
+<p align="centre">
  <img src="https://github.com/user-attachments/assets/8c9e22db-54df-41d7-95b3-2c27b179d446" width="400px" />
-
+<img src="https://github.com/user-attachments/assets/688ceed1-6573-4a11-8b84-59fb2a1aecf4" width="400px" />
 </p>
 
 
-<p align="left">
-
-  <img src="https://github.com/user-attachments/assets/688ceed1-6573-4a11-8b84-59fb2a1aecf4" width="400px" />
-</p>
-
-
-
-
-
-Here are the **key features** of your provided Java GUI pathfinding code:
 
 ---
 
